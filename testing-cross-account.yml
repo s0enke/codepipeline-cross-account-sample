@@ -1,4 +1,4 @@
 AWSTemplateFormatVersion: "2010-09-09"
 Resources:
-MySNSTopic: 
-  Type: "AWS::SNS::Topic"
+  MySNSTopic: 
+    Type: "AWS::SNS::Topic"
